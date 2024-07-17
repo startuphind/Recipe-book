@@ -46,6 +46,6 @@ To get a local copy up and running, follow these simple steps:
 
 ## Contact
 
-Your Name - [rohanvermadev@gmail.com](mailto:rohanvermadev@gmail.com)
+Your Name - [Aditya Tiwari](mailto:tiwariaditya5432@gmail.com)
 
-Project Link: [https://github.com/DevOpRohan/Recipebook](https://github.com/DevOpRohan/Recipebook)
+
